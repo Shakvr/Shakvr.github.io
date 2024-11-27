@@ -1,0 +1,73 @@
+body {
+    background-image: url('../img/00001.gif');
+    background-size: cover;
+    flex-direction:row; 
+    
+   }
+
+#entete{
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+
+#logo img{
+    width :100px;
+    height:90px;
+    display: flex;
+    margin-left: 46%;
+}
+
+
+#mp3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    background-color: rgba(165, 143, 158, 0.673);
+}
+
+#pp img{
+    margin-top: 10px;
+    border-radius: 100%;
+    width: 100px;  
+    height: 100px;
+
+}
+
+
+#rsx img{
+    margin-top: 15px;
+    width: 250px;  
+    height: 250px;
+    border-radius: 5%;
+}
+
+#btn img{
+    margin-top: 8px;
+    width: 85px;  
+    height: 85px;
+}
+
+
+
+#dson {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 900px;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    background-color: rgba(83, 80, 82, 0.673);
+    display: none;
+}
+
+

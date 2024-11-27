@@ -1,0 +1,21 @@
+body {
+    background-image: url('../img/00003.gif');
+    background-size: cover;
+    flex-direction:column; 
+   }
+
+
+
+#entete{
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+#logo img{
+    width :100px;
+    height:90px;
+    display: flex;
+    margin-left: 46%;
+}
